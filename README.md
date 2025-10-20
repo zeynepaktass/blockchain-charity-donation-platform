@@ -1,5 +1,4 @@
-# blockchain-charity-donation-platform
- Blockchain-Based Charity Donation Platform
+
  # 🌍 Blockchain-Based Charity Donation Platform
 
 A transparent and secure **Ethereum-based donation system** that allows users to donate to verified charities using **MetaMask** and **smart contracts**.  
